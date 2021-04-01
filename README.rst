@@ -1,0 +1,1 @@
+jinjamator/plugins/output/excel/README.rst

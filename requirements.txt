@@ -1,0 +1,6 @@
+jinjamator-core>=0.10.0
+openpyxl
+flatten_json
+natsort
+json
+xmltodict
